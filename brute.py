@@ -1,4 +1,4 @@
-#!usr
+#usr
 # -*- coding: UTF-8 -*-
 # Mod by: iqbalz noobs
 # team: life of programmer
